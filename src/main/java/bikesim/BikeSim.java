@@ -31,8 +31,6 @@ public class BikeSim {
 		
 		sim.processInput(inputFileName);
 		
-		String ret = sim.getOutputString();
-		
 	}
 
 	/**********************************************************/
